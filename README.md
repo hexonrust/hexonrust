@@ -1,9 +1,9 @@
 # Hi, I'm Hex 👋
 
-🎯 Aspiring Full-Stack Developer & ML Explorer
-🌱 Currently learning: HTML, CSS, JavaScript, Drupal & Python
-💡 Passionate about building useful web apps and data-driven projects
-🐦 Say hi on X: [@nerdy_hex](https://x.com/nerdy_hex)
+🎯 Full-Stack Developer & ML Explorer
+🌱 Current stack: HTML, CSS, JavaScript, Drupal & Python
+💡 Building useful web apps and data-driven projects
+
 
 ---
 
