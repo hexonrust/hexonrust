@@ -29,7 +29,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=hexonrust&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FFA3&title_color=00FFA3&icon_color=9945FF&text_color=c9d1d9&hide_border=false&rank_icon=github" alt="hex's github stats" />
 
 ### `> whoami`
 
