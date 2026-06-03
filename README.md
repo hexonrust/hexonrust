@@ -15,21 +15,21 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FFA3&center=true&vCenter=true&width=620&lines=Solana+On-Chain+Analyst+%2F+Builder;Reading+wallets+so+you+don%27t+have+to.;Web+Dev+%7C+DeFi+%7C+Open+Source)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FFA3&center=true&vCenter=true&width=620&lines=Solana+On-Chain+Analyst+%2F+Builder;AI+ML+%40+Engineering+%F0%9F%87%B3%F0%9F%87%AC;Reading+wallets+so+you+don%27t+have+to.;Web+Dev+%7C+DeFi+%7C+Open+Source" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=hexonrust&style=for-the-badge&color=00FFA3&labelColor=0d0d0d&label=VISITORS" alt="visitors" />
 &nbsp;
-[![X](https://img.shields.io/badge/X-%40nerdy__hex-00FFA3?style=for-the-badge&logo=x&logoColor=00FFA3&labelColor=0d0d0d)](https://twitter.com/nerdy_hex)
+<a href="https://twitter.com/nerdy_hex"><img src="https://img.shields.io/badge/X-%40nerdy__hex-00FFA3?style=for-the-badge&logo=x&logoColor=00FFA3&labelColor=0d0d0d" alt="X Twitter" /></a>
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-%40hexnote-9945FF?style=for-the-badge&logo=telegram&logoColor=9945FF&labelColor=0d0d0d)](https://t.me/hexnote)
+<a href="https://t.me/hexnote"><img src="https://img.shields.io/badge/Telegram-%40hexnote-9945FF?style=for-the-badge&logo=telegram&logoColor=9945FF&labelColor=0d0d0d" alt="Telegram" /></a>
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=hexonrust&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FFA3&title_color=00FFA3&icon_color=9945FF&text_color=c9d1d9&hide_border=false&rank_icon=github" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=hexonrust&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FFA3&title_color=00FFA3&icon_color=9945FF&text_color=c9d1d9&hide_border=false&rank_icon=github" alt="hex's github stats" />
 
 ### `> whoami`
 
@@ -57,8 +57,8 @@ philosophy: "The chain doesn't lie.
 |:---|:---|
 | 🔍 **On-Chain Intel** | `Birdeye` &nbsp; `Solscan` &nbsp; `GMGN` &nbsp; `Cielo` &nbsp; `Dune Analytics` |
 | ⚡ **Solana Infra** | `Jupiter` &nbsp; `Pump.fun` &nbsp; `Raydium` &nbsp; `Meteora` |
-| 🛠️ **Dev Stack** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| 🌐 **Web / CMS** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white) |
+| 🛠️ **Dev Stack** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" /> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> |
+| 🌐 **Web / CMS** | <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" /> <img src="https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white" alt="Drupal" /> <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" /> |
 | 📊 **Analytics** | `Dune` &nbsp; `DefiLlama` &nbsp; `Etherscan V2 API` |
 
 </div>
@@ -95,11 +95,11 @@ philosophy: "The chain doesn't lie.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hexonrust&theme=dark&background=0d0d0d&border=00FFA3&ring=9945FF&fire=00FFA3&currStreakLabel=00FFA3&sideLabels=9945FF&dates=c9d1d9&stroke=0d0d0d)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hexonrust&theme=dark&background=0d0d0d&border=00FFA3&ring=9945FF&fire=00FFA3&currStreakLabel=00FFA3&sideLabels=9945FF&dates=c9d1d9&stroke=0d0d0d" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexonrust&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=9945FF&title_color=9945FF&text_color=c9d1d9&hide_border=false)](https://github.com/hexonrust)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexonrust&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=9945FF&title_color=9945FF&text_color=c9d1d9&hide_border=false" alt="Top Langs" />
 
 </div>
 
@@ -112,7 +112,7 @@ philosophy: "The chain doesn't lie.
 [ACTIVE]  → Learning C (systems programming phase)
 [ACTIVE]  → Drupal CMS — local dev environment (DDEV + WSL2)
 [ACTIVE]  → Building web presence as @nerdy_hex
-[QUEUE]   → Gated community / alpha group (Q3 2025)
+[QUEUE]   → Gated community / alpha group (coming soon)
 ```
 
 ---
