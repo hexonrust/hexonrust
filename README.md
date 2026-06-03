@@ -90,29 +90,6 @@ philosophy: "The chain doesn't lie.
 
 ---
 
-### `> tail -f /dev/activity`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hexonrust&theme=dark&background=0d0d0d&border=00FFA3&ring=9945FF&fire=00FFA3&currStreakLabel=00FFA3&sideLabels=9945FF&dates=c9d1d9&stroke=0d0d0d" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexonrust&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=9945FF&title_color=9945FF&text_color=c9d1d9&hide_border=false" alt="Top Langs" />
-
-</div>
-
----
-
-### `> grep -r "currently" /hex/focus.log`
-
-```
-[ACTIVE]  → Writing Solana on-chain threads & analysis
-[ACTIVE]  → Learning C (systems programming phase)
-[ACTIVE]  → Drupal CMS — local dev environment (DDEV + WSL2)
-[ACTIVE]  → Building web presence as @nerdy_hex
-[QUEUE]   → Gated community / alpha group (coming soon)
-```
 
 ---
 
